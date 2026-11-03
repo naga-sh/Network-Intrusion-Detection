@@ -1,0 +1,23 @@
+
+# Dataset files
+dataset/
+*.csv
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
